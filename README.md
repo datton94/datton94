@@ -70,6 +70,29 @@ I'm buiding my portfiolio, Will update soon ....
 ## Resources for you
 I'm buiding my portfiolio, Will update soon ....
 
+### AWS Terraform
+* AWS SSO Client VPN
+* AWS VPC Terraform Module
+* AWS Route53 Terraform Module
+* AWS Lambda Function Terraform Module
+* AWS EC2 Terraform Module
+* AWS KeyPair Terraform Module (For EC2)
+* AWS RDS Terraform Module
+* AWS CloudFront Distribution Module
+* AWS CloudFront Key Management Module
+* AWS S3 Terraform Module
+* AWS CertManager Terraform Module
+* AWS SNS Terraform Module
+
+### Azure Terraform
+* Azure VNET Terraform Module
+* Azure AppService Plan Terraform Module
+* Azure WebApp Terraform Module
+* Azure AppInsight Terraform Module
+* Azure Analytic Workspace Terraform Module
+* Azure Application Gateway Terraform Module
+* Azure MSSQLServer Terraform Module
+
 ---
 
 **Community**: N/A
