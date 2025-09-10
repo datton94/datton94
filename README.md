@@ -43,8 +43,8 @@ I'm buiding my portfiolio, Will update soon ....
 
 ## Home Assigments
 ### Terraform Demo (2023) — Part of the training program for freshers (as trainer)
-Requirement: https://github.com/datton94/terraform
-Terraform code: https://github.com/nashtech-garage/terraform-demo/tree/master/terraform
+* Requirement: https://github.com/datton94/terraform
+* Terraform code: https://github.com/nashtech-garage/terraform-demo/tree/master/terraform
 ### Remediation Lab (2022)
 https://github.com/datton94/remediation-lab
 ### Global Fashion Group (2020)
