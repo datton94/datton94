@@ -49,6 +49,7 @@ Terraform code: https://github.com/nashtech-garage/terraform-demo/tree/master/te
 https://github.com/datton94/remediation-lab
 ### Global Fashion Group (2020)
 https://github.com/datton94/terraform_za
+
 ---
 
 ## Demo videos
