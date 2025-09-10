@@ -21,7 +21,7 @@ Automation, observability, and clear runbooks are my thing.
 - Storage & HA: **Longhorn**, backups, safe upgrades, and rollback plans.
 - Service mesh: **Istio**, **Cilium**.
 - IaC: **Terraform**, **Helm**, reusable modules/charts with docs and tests.
-- AWS Bedrock/Azure AI Foundry: templated flows, service connections, tagging and versioning.
+- AWS Bedrock/Azure AI Foundry: AI Agent with RAG, Prompt Flow
 
 ## Current focus
 - Standardizing **safe upgrade playbooks** (Istio, Longhorn, cert-manager).
@@ -84,6 +84,8 @@ I'm buiding my portfiolio, Will update soon ....
 * AWS CertManager Terraform Module
 * AWS SNS Terraform Module
 
+### Github Action Pipeline for Terraform
+
 ### Azure Terraform
 * Azure VNET Terraform Module
 * Azure AppService Plan Terraform Module
@@ -92,6 +94,8 @@ I'm buiding my portfiolio, Will update soon ....
 * Azure Analytic Workspace Terraform Module
 * Azure Application Gateway Terraform Module
 * Azure MSSQLServer Terraform Module
+
+### Azure DevOps Pipeline for Terraform
 
 ---
 
