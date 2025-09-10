@@ -41,7 +41,7 @@ I'm buiding my portfiolio, Will update soon ....
 
 I'm buiding my portfiolio, Will update soon ....
 
-## Home Assigment for interview
+## Home Assigments for interview
 ### Terraform Demo (2023) — Part of the training program for freshers (as trainer)
 Requirement: https://github.com/datton94/terraform
 Terraform code: https://github.com/nashtech-garage/terraform-demo/tree/master/terraform
