@@ -6,7 +6,7 @@ Automation, observability, and clear runbooks are my thing.
 </p>
 
 <p align="center">
-  <a href="{{https://www.linkedin.com/in/dat-ton-that-thanh-928704111}}">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dat-ton-that-thanh-928704111">LinkedIn</a> •
   <a href="{{Blog URL}}">Blog</a> •
   <a href="{{YouTube URL}}">YouTube</a> •
   <a href="mailto:{{datton94@gmail.com}}">Email</a>
